@@ -1,4 +1,4 @@
-# SuperSales
+# SuperSales power_bi project
  SuperSales is a comprehensive sales management tool built to empower sales teams with powerful features for tracking leads, managing customer relationships, and analyzing performance. This project provides:
 
 Real-time analytics: Visual dashboards to monitor key performance indicators (KPIs) and sales trends.
