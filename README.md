@@ -6,3 +6,10 @@ Automated reporting: Streamlined reporting features for daily, weekly, and month
 CRM integration: Easily manage customer data and interactions to improve relationships and conversion rates.
 Customizable workflows: Tailor sales processes to your team's specific needs for maximum efficiency.
 SuperSales helps sales professionals optimize their workflows, boost productivity, and ultimately drive revenue growth.
+This Power BI project analyzes the sales data of a retail superstore. Key metrics include:
+
+- *Average Delivery Profit*: $175,000
+- *Quantity Sold*: 22,000 units
+- *Total Sales*: $1.6 Million
+
+The project visualizes key performance indicators (KPIs), providing insights into sales trends, profit margins, and product performance. It helps stakeholders make data-driven decisions to optimize business operations.
